@@ -13,7 +13,7 @@ sheight = 480
 
 screen = pg.display.set_mode((swidth, sheight))
 
-path = 'C:/Users/Mehmet/Desktop/Çalışma Dosyaları/Bm programları/Yazılımsal/kişisel-python/Game_Tries/pygame_tries/FirstHand/shooter_try'
+path = 'C:/Users/Mehmet/Desktop/Çalışma Dosyaları/Bm programları/Yazılımsal/kişisel-python/Game_Tries/pygame_tries/FirstHand/shooter_try/'
 
 walkRight = [pg.image.load('R%s.png' % frame) for frame in range(1, 10)]
 
